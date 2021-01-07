@@ -1,0 +1,12 @@
+{
+  id: '@id',
+  // 随机数字id
+  username: '@cname',
+  // 随机生成中文名字
+  date: '@date()',
+  // 随机生成日期
+  avator: '@image(\'200x200\',\'red\',\'#fff\',\'avator\')',
+  description: '@description()',
+  ip: '@ip()',
+  email: '@email()'
+}
